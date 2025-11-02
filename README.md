@@ -75,6 +75,37 @@ Identify high-revenue regions and products.
 
 Evaluate discount impact on profitability.
 
-Understand customer purchasing patterns.
+Understand customer purchasing patterns
 
-Support strategic decision-making using visual storytelling.
+
+
+HR Dashboard(  Projecr 2)
+This Power BI dashboard provides key insights into employee data, helping the HR department analyze workforce trends and performance efficiently.
+
+📊 Key Highlights
+
+Count of Employees: 29
+
+Top Department: Finance
+
+Total Monthly Income: 2M
+
+Gender & Age Filters: Allows dynamic analysis based on gender and age.
+
+📈 Visual Insights
+
+Employee Count by Joining Year: Tracks hiring trends and growth over time.
+
+Overtime Analysis: Displays overtime distribution by employee.
+
+Attrition by Performance Rating: Identifies attrition patterns based on performance levels.
+
+🧠 Purpose
+
+The dashboard helps HR professionals monitor employee distribution, performance, attrition, and compensation metrics to support data-driven decision-making.
+
+🛠️ Tools Used
+
+Power BI for visualization
+
+HR Analytics Dataset for data modeling and insights
